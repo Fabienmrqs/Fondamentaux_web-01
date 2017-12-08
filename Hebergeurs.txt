@@ -1,0 +1,51 @@
+﻿Type d’hébergement : Mutualisé, dédié, cloud, VPS
+
+
+Hébergement mutualisé
+L’hébergement mutualisé est un modèle d’hébergement Web dans lequel de nombreux sites Internet sont regroupés en un pool commun de ressources informatiques via un même serveur. Ainsi, les capacités de stockage de RAM et de CPU de la machine physique servant à l’hébergement sont dispersées entre les différents utilisateurs. Chaque site Web hébergé sur un serveur mutualisé est chargé à partir d’un domaine qui lui est propre, ils sont stockés sur une partie dédiée de l’espace disque. Ainsi, différents projets peuvent être menés par plusieurs utilisateurs utilisant une même plateforme de matériel informatique. L’hébergement mutualisé est une solution peu coûteuse et tout particulièrement appréciée par les débutants.
+
+
+Malgré l'avantage financier il y a :
+
+
+Avantages : étant donné que tous les utilisateurs se partagent les ressources d’une plateforme d’hébergement, le tarif de ce serveur est généralement plus avantageux sur le marché, sachant que les coûts sont partagés par tous les utilisateurs de la plateforme. De plus, l’hébergement mutualisé n’engendre pas de coûts pour l’administration de la machine physique, à l’inverse des serveurs personnels. Les dépenses causées par les mises à jour, les réparations et la maintenance sont à la charge de l’hébergeur. Ainsi, les utilisateurs peuvent se consacrer entièrement à leur projet Web. De plus, de nombreux fournisseurs d’hébergement Web mettent des outils de configuration faciles à manier à disposition de la clientèle.
+Désavantages : l’hébergement mutualisé implique obligatoirement une utilisation restreinte du matériel informatique. Comme les différents sites Web hébergés partagent les ressources d’un même serveur, les utilisateurs de ce type d’hébergement ne peuvent pas bénéficier de la totalité des capacités du serveur. Si l’un des sites Web d’une plateforme d’hébergement présente un trafic très élevé, son utilisation de données pourrait mettre à mal l’activité des autres sites de la plateforme. En outre, les possibilités d’accès et d’administration sont fortement réduites avec ce modèle. Les configurations de base sur la machine physique, et qui concernent tous les utilisateurs, ne peuvent être effectuées que par l’hébergeur Web. C’est ce point qui distingue sensiblement l’hébergement partagé des serveurs dédiés ou virtuels, avec lesquels les utilisateurs ont généralement un accès au fichier racine (root).
+
+
+
+
+Serveur dédié
+
+
+Un serveur dédié est un type de serveur informatique ayant pour particularité de proposer ses services à un seul et unique client. Il s'oppose, par définition, au serveur mutualisé qui apporte, de son côté, une réponse aux requêtes de plusieurs utilisateurs simultanément.
+Comme tout serveur informatique, le serveur dédié propose différents services comme l'accès au Web, la relève de courriers électroniques, etc. Dans le cas d'un serveur dédié, toute la puissance et l'intégralité des ressources du serveur sont allouées à son seul et unique client.
+On retrouve principalement l'emploi de ce terme dans l'univers de l'hébergement web. Disposer d'un serveur dédié pour héberger son site web permet de profiter de certaines garanties de qualité dans l'accès au site web. Le site web ainsi hébergé ne souffrira pas en effet des problèmes liés aux pics de trafics avec la présence d'autres sites concurrents sur le serveur, pouvant entraîner un ralentissement de son chargement ou des plantages.
+
+
+Cloud privé
+
+
+Le Cloud privé ou Cloud dédié, les deux termes sont valables, désigne une infrastructure qui vous est totalement dédiée, c’est-à-dire que ce sont votre ou vos serveurs privatifs qui vont gérer l’ensemble de vos données et pour tous les utilisateurs de votre entreprise. Celui-ci est administré soit en interne, soit par un prestataire spécialisé. Votre Cloud privé qu’il soit hébergé en interne ou dans un datacenter est très proche d’une infrastructure locale.
+Pour la plupart des sociétés, le Cloud privé a un coût fixe en fonction du type de serveur utilisé, de sa capacité en terme de puissance, de stockage et de la maintenance qui est associée. Parfois, le prix peut aussi varier en fonction du nombre d’utilisateurs.
+A l’inverse, le gros avantage du Cloud privé est d’avoir un contrôle beaucoup plus complet sur ses données et sur son infrastructure. Elle sera en effet bien plus adaptée à ses besoins, mais elle risque d’être plus coûteuse.
+
+
+
+
+
+
+
+
+Qu'est ce qu'un VPS (Serveur Privé Virtuel) ?
+
+
+
+
+Un VPS, de l’anglais virtual private server, en français serveur dédié virtuel ou plus simplement serveur virtuel, est un modèle répandu d’hébergement qui fait partie de la catégorie de service IaaS (Infrastructure as a Service) délivré par les nombreux fournisseurs d’accès Internet. On peut définir un VPS comme une machine virtuelle (en anglais virtual machine, VM en abrégé), qui emploie les ressources d’un serveur physique et offre aux utilisateurs les mêmes fonctionnalités qu’un serveur dédié classique. Ainsi un VPS représente le même concept qu’un VDS (en anglais virtual dedicated server).
+Dans le domaine commercial de l’hébergement Web, une machine physique de haute performance héberge normalement plusieurs VPS, chacun ayant son propre système d’exploitation (OS, pour operating system) et offrant aux utilisateurs un accès complet à la racine. Ainsi chaque administrateur de serveur opère de manière indépendante des autres utilisateurs sur le même matériel informatique. La gestion du matériel s’opère à travers un hyperviseur : un gestionnaire de machine virtuelle. C’est simplement un programme qui crée et gère des machines virtuelles. L’hyperviseur définit l’environnement virtuel et offre pour chaque serveur dédié virtuel un partage de ses ressources physiques comme le processeur (CPU, de l’anglais central processing unit), la mémoire vive (RAM, de l’anglais random access memory) ou encore l’espace disque. Les droits d’accès à la racine permettent à un utilisateur de VPS d’installer toutes les applications qui sont supportées par le système d’exploitation choisi – ceci peut inclure un logiciel de serveur Web, un serveur d’Email, ou encore des applications spécifiques pour le e-commerce ou les systèmes de blogs. 
+Avantages et inconvénients d‘un VPS
+Le serveur dédié virtuel se positionne comme un bon compromis entre deux solutions d’hébergements : l’hébergement partagé qui est la solution la moins coûteuse et l’option de posséder son propre serveur dédié, très onéreuse pour cette dernière. Le modèle d’hébergement virtuel dédié offre aux utilisateurs un large spectre de possibilités pour un tarif raisonnable et abordable. En effet la création de reproductions virtuelles d’un système informatique individuel sur une plateforme commune de partage est un processus bien plus simple pour les entreprises d’hébergement Web que de préparer de manière séparé un matériel informatique pour chaque utilisateur. Enfin un haut niveau d’indépendance des systèmes des utilisateurs est obtenu par encapsulation. Chaque VPS sur le matériel partagé peut être utilisé de manière sécurisé et protégé des autres systèmes qui opèrent en parallèle.
+Le partage des ressources du matériel que chaque VPS obtient de l’hyperviseur central est généralement défini en avance. Ainsi il est garanti pour chaque utilisateur un niveau de performance minimum du serveur. Mais les performances réelles d’un VPS sont généralement bien supérieurs au minimum garanti, notamment lorsque les autres systèmes opérant sur le matériel en partage ne sont pas utilisés. En effet, l’hyperviseur relocalise les ressources libres et non utilisés sur les autres systèmes partageant le matériel.
+Chaque VPS utilise son propre système d’exploitation. Ce qui signifie que les erreurs et les attaques malveillantes sont restreintes au système d’exploitation (OS) individuel, les autres VPS qui opèrent sur le même matériel ne sont pas affectés. Mais comme le serveur dédié virtuel donne aux utilisateurs un accès complet à la racine, l’administration de ces serveurs est donc beaucoup plus complexe que pour un hébergement partagé ou mutualisé ou les configurations basiques et les mises à jour sont gérées par la compagnie d’hébergement Web.
+Un autre désavantage du VPS, cette fois-ci en comparaison à un serveur dédié est la restriction dans l’usage du matériel en termes de ressources réseau. Les serveurs virtuels sur un système d’hébergement sont contrôlés par un nombre spécifique de réseaux adaptés et les connexions LAN ne correspondent pas généralement au nombre que le serveur dédié virtuel utilise.
+Un autre modèle d’hébergement similaire au VPS est l’hébergement Cloud avec une tarification à la consommation réelle plutôt que par abonnement fixe.
